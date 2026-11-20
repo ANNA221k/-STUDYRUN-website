@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://anna221k.github.io/-STUDYRUN-website/sitemap.xml
